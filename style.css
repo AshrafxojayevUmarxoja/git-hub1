@@ -1,0 +1,88 @@
+.qora{
+    
+}
+.header{
+    width: 1440px;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+nav {
+    display: flex;
+   
+}
+.li{
+    
+}
+.kok{
+    display: flex;
+    width: 100%;
+    gap: 90px;
+    justify-content: center; 
+    align-items: center;
+    color: #1F1534;
+}
+.df{
+    text-align: center;
+}
+.p{
+    text-align: center;
+    color:  #7D7987;
+}
+.blue{
+    background: #E7E7E7;
+    width: 300px;
+    border-radius: 20px;
+    padding: 68px 0px 29px 41px;
+    transition: 300ms;
+}
+.blue:hover{
+    background: #5A98F2;
+}
+.svg{
+    width: 97px;
+    margin: 20px;
+}
+h3{
+    color: white;
+}
+.green{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px; 
+}
+h3{
+    color: black;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.bagraund{
+
+    background-color: #FFFFFF;
+    
+    display: flex;
+}
+.box{
+}
+.mk{
+    display: flex;
+    flex-direction: column;
+}
+.box-{
+    margin-left: 40%;
+}
+.br{
+    margin-left: 40%;
+}
